@@ -13,3 +13,8 @@
   margin: 0;
   padding: 0;
 }
+
+.navbar__link {
+  text-decoration: none;
+  color: #ffffff;
+}

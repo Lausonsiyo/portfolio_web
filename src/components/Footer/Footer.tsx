@@ -7,6 +7,8 @@ function Footer() {
       <p>© 2026 My Portfolio. All rights reserved.</p>
       <p>© 2026 My Portfolio. All rights reserved.</p>
       <p>© 2026 My Portfolio. All rights reserved.</p>
+      <p>© 2026 My Portfolio. All rights reserved.</p>
+      <p>© 2026 My Portfolio. All rights reserved.</p>
     </footer>
   );
 }

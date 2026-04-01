@@ -8,8 +8,6 @@ function Header() {
   return (
     <header className="header">
       <h1 className="header__title">My Portfolio Header</h1>
-      <h1 className="header__title">My Portfolio Header</h1>
-      <h1 className="header__title">My Portfolio Header</h1>
       <Navbar />
     </header>
   );
